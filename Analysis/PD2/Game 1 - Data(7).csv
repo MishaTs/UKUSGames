@@ -1,0 +1,86 @@
+[TEMPLATE]
+
+type,"push_pull"
+name,"Prisoner's Dilemma (Push and Pull)"
+description,""
+creator,"MobLab"
+editable,"true"
+tags,"Collusion,Game Theory,categories_Game Theory,Repeated Game,Cooperation,categories_Classic Games,Prisoner's Dilemma,Push and Pull"
+allow_proxy_play,"false"
+passive_roles,""
+show_timer,"true"
+show_identity,"false"
+play_with_robots,"false"
+number_of_round,"5"
+round_duration,"-1"
+round_interval,"5"
+maximal,"2"
+type,"push_pull"
+duration,"-1"
+allow_chat,"false"
+minimal,"2"
+pull_amount,"50"
+ending_probability,"100"
+push_amount,"100"
+desc,"You are paired with another player and each of you have to make a decision.  You could 'pull' some amount of money from an imaginary pile to yourself and keep it.  Or you could 'push' more money from the imaginary pile to your opponent and hope he would do the same, therefore getting more money for both of you.
+What would you do?"
+id,db6593ef-904a-4f92-b995-fe98b9226238
+matching,random
+parent,5656ad9b-49ca-4f39-8d1e-84cc6b956af4
+
+
+
+[GAME INFO]
+period, group #,start_time,end_time, round_start_times,
+1,1,1575297836248,1575297907082,1575297836249,-1,-1,-1,-1,
+1,2,1575297836415,1575297907082,1575297836415,-1,-1,-1,-1,
+1,3,1575297836416,1575297881473,1575297836416,1575297847463,1575297855517,1575297864094,1575297872342,
+1,4,1575297836417,1575297878460,1575297836417,1575297848869,1575297856611,1575297864579,1575297871818,
+
+
+
+[MOVE INFO]
+period, group #,player #,player role,userid,move time,move name,additional data
+1,3,2,player,-349396925939004500,2001,"CHOOSE",0,1,
+1,3,1,player,308591,6046,"CHOOSE",0,0,
+1,3,2,player,-349396925939004500,12048,"CHOOSE",1,1,
+1,3,1,player,308591,14100,"CHOOSE",1,0,
+1,3,1,player,308591,21675,"CHOOSE",2,0,
+1,3,2,player,-349396925939004500,22676,"CHOOSE",2,0,
+1,3,1,player,308591,29923,"CHOOSE",3,0,
+1,3,2,player,-349396925939004500,30924,"CHOOSE",3,1,
+1,3,2,player,-349396925939004500,37926,"CHOOSE",4,0,
+1,3,1,player,308591,40056,"CHOOSE",4,1,
+1,4,2,player,-312211184840160700,1001,"CHOOSE",0,0,
+1,4,1,player,308590,7450,"CHOOSE",0,0,
+1,4,2,player,-312211184840160700,14453,"CHOOSE",1,1,
+1,4,1,player,308590,15193,"CHOOSE",1,0,
+1,4,2,player,-312211184840160700,22194,"CHOOSE",2,1,
+1,4,1,player,308590,23161,"CHOOSE",2,0,
+1,4,2,player,-312211184840160700,29162,"CHOOSE",3,0,
+1,4,1,player,308590,30400,"CHOOSE",3,1,
+1,4,2,player,-312211184840160700,36402,"CHOOSE",4,0,
+1,4,1,player,308590,37042,"CHOOSE",4,1,
+
+
+
+[PLAYER INFO]
+period, group #,player_number,user id,role,payoff,
+1,1,1,307699,player,0,
+1,1,2,-1108976682086793100,player,0,
+1,2,1,-4465079652822740500,player,0,
+1,2,2,307698,player,0,
+1,3,1,308591,player,250,
+1,3,2,-349396925939004500,player,550,
+1,4,1,308590,player,400,
+1,4,2,-312211184840160700,player,400,
+
+
+
+[CHAT INFO]
+period, group #, player #, userid, time, recipient (player #), message
+
+
+
+
+

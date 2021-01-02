@@ -1,0 +1,70 @@
+[TEMPLATE]
+
+type,"push_pull"
+name,"Prisoner's Dilemma (Push and Pull)"
+description,""
+creator,"MobLab"
+editable,"true"
+tags,"Collusion,Game Theory,categories_Game Theory,Repeated Game,Cooperation,categories_Classic Games,Prisoner's Dilemma,Push and Pull"
+allow_proxy_play,"false"
+passive_roles,""
+show_timer,"true"
+show_identity,"false"
+play_with_robots,"false"
+number_of_round,"5"
+round_duration,"-1"
+round_interval,"5"
+maximal,"2"
+type,"push_pull"
+duration,"-1"
+allow_chat,"false"
+minimal,"2"
+pull_amount,"50"
+ending_probability,"100"
+push_amount,"100"
+desc,"You are paired with another player and each of you have to make a decision.  You could 'pull' some amount of money from an imaginary pile to yourself and keep it.  Or you could 'push' more money from the imaginary pile to your opponent and hope he would do the same, therefore getting more money for both of you.
+What would you do?"
+id,3db5cf8a-efec-44e9-8aa3-42c50633209d
+matching,random
+parent,2702a4b8-4c61-4b35-b8db-97b7dafd8c08
+
+
+
+[GAME INFO]
+period, group #,start_time,end_time, round_start_times,
+1,1,1574689344623,1574689486868,1574689344624,-1,-1,-1,-1,
+1,2,1574689344625,1574689398707,1574689344625,1574689356124,1574689371150,1574689380451,1574689389803,
+
+
+
+[MOVE INFO]
+period, group #,player #,player role,userid,move time,move name,additional data
+1,2,2,player,308194,6172,"CHOOSE",0,0,
+1,2,1,player,308190,6498,"CHOOSE",0,0,
+1,2,2,player,308194,12931,"CHOOSE",1,0,
+1,2,1,player,308190,21524,"CHOOSE",1,0,
+1,2,2,player,308194,29022,"CHOOSE",2,0,
+1,2,1,player,308190,30824,"CHOOSE",2,0,
+1,2,2,player,308194,39167,"CHOOSE",3,0,
+1,2,1,player,308190,40177,"CHOOSE",3,0,
+1,2,1,player,308190,48729,"CHOOSE",4,0,
+1,2,2,player,308194,49080,"CHOOSE",4,0,
+
+
+
+[PLAYER INFO]
+period, group #,player_number,user id,role,payoff,
+1,1,1,307698,player,0,
+1,1,2,307699,player,0,
+1,2,1,308190,player,500,
+1,2,2,308194,player,500,
+
+
+
+[CHAT INFO]
+period, group #, player #, userid, time, recipient (player #), message
+
+
+
+
+

@@ -1,0 +1,70 @@
+[TEMPLATE]
+
+type,"push_pull"
+name,"Prisoner's Dilemma (Push and Pull)"
+description,""
+creator,"MobLab"
+editable,"true"
+tags,"Collusion,Game Theory,categories_Game Theory,Repeated Game,Cooperation,categories_Classic Games,Prisoner's Dilemma,Push and Pull"
+allow_proxy_play,"false"
+passive_roles,""
+show_timer,"true"
+show_identity,"false"
+play_with_robots,"false"
+number_of_round,"5"
+round_duration,"-1"
+round_interval,"5"
+maximal,"2"
+type,"push_pull"
+duration,"-1"
+allow_chat,"false"
+minimal,"2"
+pull_amount,"50"
+ending_probability,"100"
+push_amount,"100"
+desc,"You are paired with another player and each of you have to make a decision.  You could 'pull' some amount of money from an imaginary pile to yourself and keep it.  Or you could 'push' more money from the imaginary pile to your opponent and hope he would do the same, therefore getting more money for both of you.
+What would you do?"
+id,9e9f97b7-165a-4753-a203-d1a3cefd90fb
+matching,random
+parent,2702a4b8-4c61-4b35-b8db-97b7dafd8c08
+
+
+
+[GAME INFO]
+period, group #,start_time,end_time, round_start_times,
+1,1,1574694554754,1574694632500,1574694554754,-1,-1,-1,-1,
+1,2,1574694554755,1574694618599,1574694554755,1574694587039,1574694596442,1574694603595,1574694611461,
+
+
+
+[MOVE INFO]
+period, group #,player #,player role,userid,move time,move name,additional data
+1,2,1,player,308209,27166,"CHOOSE",0,0,
+1,2,2,player,308208,27283,"CHOOSE",0,0,
+1,2,2,player,308208,35279,"CHOOSE",1,0,
+1,2,1,player,308209,36685,"CHOOSE",1,0,
+1,2,1,player,308209,43760,"CHOOSE",2,0,
+1,2,2,player,308208,43839,"CHOOSE",2,0,
+1,2,1,player,308209,51441,"CHOOSE",3,0,
+1,2,2,player,308208,51705,"CHOOSE",3,0,
+1,2,1,player,308209,58406,"CHOOSE",4,0,
+1,2,2,player,308208,58843,"CHOOSE",4,0,
+
+
+
+[PLAYER INFO]
+period, group #,player_number,user id,role,payoff,
+1,1,1,307698,player,0,
+1,1,2,307699,player,0,
+1,2,1,308209,player,500,
+1,2,2,308208,player,500,
+
+
+
+[CHAT INFO]
+period, group #, player #, userid, time, recipient (player #), message
+
+
+
+
+

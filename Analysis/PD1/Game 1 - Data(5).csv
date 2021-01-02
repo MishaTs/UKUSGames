@@ -1,0 +1,70 @@
+[TEMPLATE]
+
+type,"push_pull"
+name,"Prisoner's Dilemma (Push and Pull)"
+description,""
+creator,"MobLab"
+editable,"true"
+tags,"Collusion,Game Theory,categories_Game Theory,Repeated Game,Cooperation,categories_Classic Games,Prisoner's Dilemma,Push and Pull"
+allow_proxy_play,"false"
+passive_roles,""
+show_timer,"true"
+show_identity,"false"
+play_with_robots,"false"
+number_of_round,"5"
+round_duration,"-1"
+round_interval,"5"
+maximal,"2"
+type,"push_pull"
+duration,"-1"
+allow_chat,"false"
+minimal,"2"
+pull_amount,"50"
+ending_probability,"100"
+push_amount,"100"
+desc,"You are paired with another player and each of you have to make a decision.  You could 'pull' some amount of money from an imaginary pile to yourself and keep it.  Or you could 'push' more money from the imaginary pile to your opponent and hope he would do the same, therefore getting more money for both of you.
+What would you do?"
+id,a86e939c-0344-4cc7-b787-bc21233e919e
+matching,random
+parent,2702a4b8-4c61-4b35-b8db-97b7dafd8c08
+
+
+
+[GAME INFO]
+period, group #,start_time,end_time, round_start_times,
+1,1,1575376673795,1575376762157,1575376673795,-1,-1,-1,-1,
+1,2,1575376673796,1575376753139,1575376673796,1575376690235,1575376699419,1575376718678,1575376731928,
+
+
+
+[MOVE INFO]
+period, group #,player #,player role,userid,move time,move name,additional data
+1,2,1,player,308643,6886,"CHOOSE",0,0,
+1,2,2,player,308189,11438,"CHOOSE",0,0,
+1,2,2,player,308189,19676,"CHOOSE",1,0,
+1,2,1,player,308643,20622,"CHOOSE",1,0,
+1,2,2,player,308189,31526,"CHOOSE",2,0,
+1,2,1,player,308643,39881,"CHOOSE",2,0,
+1,2,1,player,308643,53078,"CHOOSE",3,0,
+1,2,2,player,308189,53131,"CHOOSE",3,1,
+1,2,2,player,308189,67876,"CHOOSE",4,1,
+1,2,1,player,308643,74342,"CHOOSE",4,1,
+
+
+
+[PLAYER INFO]
+period, group #,player_number,user id,role,payoff,
+1,1,1,307699,player,0,
+1,1,2,307698,player,0,
+1,2,1,308643,player,350,
+1,2,2,308189,player,500,
+
+
+
+[CHAT INFO]
+period, group #, player #, userid, time, recipient (player #), message
+
+
+
+
+

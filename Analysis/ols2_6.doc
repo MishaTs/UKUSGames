@@ -1,0 +1,50 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx3168\clbrdrt\brdrs\cellx4464\clbrdrt\brdrs\cellx5760\clbrdrt\brdrs\cellx7200\clbrdrt\brdrs\cellx8784
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3168\cellx4464\cellx5760\cellx7200\cellx8784
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3168\clbrdrb\brdrs\cellx4464\clbrdrb\brdrs\cellx5760\clbrdrb\brdrs\cellx7200\clbrdrb\brdrs\cellx8784
+\ql VARIABLES\cell\qc dugcc\cell\qc dugcc\cell\qc dugcc\cell\qc dugcc\cell\qc dugcc\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3168\cellx4464\cellx5760\cellx7200\cellx8784
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql tg\cell\qc 0.0380\cell\qc 0.0380\cell\qc -0.0747\cell\qc -0.136*\cell\qc -0.0833\cell\row
+\ql \cell\qc (0.0629)\cell\qc (0.0629)\cell\qc (0.0805)\cell\qc (0.0810)\cell\qc (0.0670)\cell\row
+\ql nat\cell\qc \cell\qc \cell\qc -0.111\cell\qc -0.783**\cell\qc -0.660**\cell\row
+\ql \cell\qc \cell\qc \cell\qc (0.0779)\cell\qc (0.371)\cell\qc (0.315)\cell\row
+\ql tgNat\cell\qc \cell\qc \cell\qc 0.207\cell\qc 0.321**\cell\qc 0.154\cell\row
+\ql \cell\qc \cell\qc \cell\qc (0.127)\cell\qc (0.126)\cell\qc (0.106)\cell\row
+\ql role1\cell\qc -0.0640\cell\qc -0.0640\cell\qc -0.0735\cell\qc -0.0344\cell\qc 0.0515\cell\row
+\ql \cell\qc (0.0622)\cell\qc (0.0625)\cell\qc (0.0654)\cell\qc (0.0625)\cell\qc (0.0528)\cell\row
+\ql age\cell\qc \cell\qc \cell\qc \cell\qc -0.185***\cell\qc -0.121**\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0667)\cell\qc (0.0605)\cell\row
+\ql gender\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc -0.00890\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc (0.0741)\cell\row
+\ql edu\cell\qc \cell\qc \cell\qc \cell\qc 0.206**\cell\qc 0.134\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0952)\cell\qc (0.0847)\cell\row
+\ql tuk\cell\qc \cell\qc \cell\qc \cell\qc 0.0196\cell\qc 0.0107\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0134)\cell\qc (0.0112)\cell\row
+\ql tus\cell\qc \cell\qc \cell\qc \cell\qc 0.0496***\cell\qc 0.0369***\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0144)\cell\qc (0.0123)\cell\row
+\ql fampart\cell\qc \cell\qc \cell\qc \cell\qc -0.0171\cell\qc 0.000809\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0364)\cell\qc (0.0376)\cell\row
+\ql famgt\cell\qc \cell\qc \cell\qc \cell\qc 0.0460\cell\qc 0.0274\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0310)\cell\qc (0.0325)\cell\row
+\ql dpay\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc 0.00671***\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc (0.000923)\cell\row
+\ql prd2\cell\qc \cell\qc -0.0930\cell\qc -0.0930\cell\qc -0.0930\cell\qc 0.00183\cell\row
+\ql \cell\qc \cell\qc (0.0948)\cell\qc (0.0940)\cell\qc (0.0900)\cell\qc (0.0782)\cell\row
+\ql prd3\cell\qc \cell\qc -0.0755\cell\qc -0.0755\cell\qc -0.0755\cell\qc 0.00506\cell\row
+\ql \cell\qc \cell\qc (0.0949)\cell\qc (0.0959)\cell\qc (0.0941)\cell\qc (0.0796)\cell\row
+\ql prd4\cell\qc \cell\qc -0.0400\cell\qc -0.0400\cell\qc -0.0400\cell\qc 0.0147\cell\row
+\ql \cell\qc \cell\qc (0.102)\cell\qc (0.102)\cell\qc (0.0938)\cell\qc (0.0768)\cell\row
+\ql prd5\cell\qc \cell\qc -0.138\cell\qc -0.138\cell\qc -0.138\cell\qc -0.0504\cell\row
+\ql \cell\qc \cell\qc (0.0935)\cell\qc (0.0922)\cell\qc (0.0879)\cell\qc (0.0751)\cell\row
+\ql Constant\cell\qc 0.0750\cell\qc 0.144**\cell\qc 0.214***\cell\qc 2.964***\cell\qc 1.901*\cell\row
+\ql \cell\qc (0.0484)\cell\qc (0.0706)\cell\qc (0.0804)\cell\qc (1.070)\cell\qc (0.970)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 200\cell\qc 200\cell\qc 200\cell\qc 200\cell\qc 200\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3168\clbrdrb\brdrs\cellx4464\clbrdrb\brdrs\cellx5760\clbrdrb\brdrs\cellx7200\clbrdrb\brdrs\cellx8784
+\ql R-squared\cell\qc 0.007\cell\qc 0.019\cell\qc 0.033\cell\qc 0.156\cell\qc 0.414\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

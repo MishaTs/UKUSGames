@@ -1,0 +1,54 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx3168\clbrdrt\brdrs\cellx4464\clbrdrt\brdrs\cellx6048\clbrdrt\brdrs\cellx7632\clbrdrt\brdrs\cellx8928\clbrdrt\brdrs\cellx10512
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\qc (6)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3168\cellx4464\cellx6048\cellx7632\cellx8928\cellx10512
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3168\clbrdrb\brdrs\cellx4464\clbrdrb\brdrs\cellx6048\clbrdrb\brdrs\cellx7632\clbrdrb\brdrs\cellx8928\clbrdrb\brdrs\cellx10512
+\ql VARIABLES\cell\qc ugcc1\cell\qc ugcc1\cell\qc ugcc1\cell\qc ugcc1\cell\qc ugcc1\cell\qc ugcc1\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3168\cellx4464\cellx6048\cellx7632\cellx8928\cellx10512
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql tg\cell\qc 0.0271\cell\qc -0.0558\cell\qc -0.0223\cell\qc 0.0507\cell\qc 0.0247\cell\qc 0.0498\cell\row
+\ql \cell\qc (0.0882)\cell\qc (0.0969)\cell\qc (0.0820)\cell\qc (0.0927)\cell\qc (0.139)\cell\qc (0.101)\cell\row
+\ql nat\cell\qc \cell\qc -0.202*\cell\qc -0.103\cell\qc -0.678\cell\qc -0.677\cell\qc -0.674\cell\row
+\ql \cell\qc \cell\qc (0.104)\cell\qc (0.0781)\cell\qc (0.597)\cell\qc (0.774)\cell\qc (0.593)\cell\row
+\ql tgNat\cell\qc \cell\qc 0.129\cell\qc -0.0679\cell\qc -0.116\cell\qc -0.0670\cell\qc -0.117\cell\row
+\ql \cell\qc \cell\qc (0.181)\cell\qc (0.164)\cell\qc (0.140)\cell\qc (0.217)\cell\qc (0.187)\cell\row
+\ql role\cell\qc \cell\qc 0.00857\cell\qc 0.121\cell\qc 0.130\cell\qc 0.0715\cell\qc 0.129\cell\row
+\ql \cell\qc \cell\qc (0.0964)\cell\qc (0.0844)\cell\qc (0.0973)\cell\qc (0.108)\cell\qc (0.108)\cell\row
+\ql ugcc2\cell\qc 0.168\cell\qc 0.0314\cell\qc 0.668***\cell\qc 0.394\cell\qc -0.0842\cell\qc 0.395\cell\row
+\ql \cell\qc (0.268)\cell\qc (0.290)\cell\qc (0.232)\cell\qc (0.237)\cell\qc (0.276)\cell\qc (0.259)\cell\row
+\ql age\cell\qc \cell\qc \cell\qc \cell\qc -0.0545\cell\qc -0.0698\cell\qc -0.0538\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0833)\cell\qc (0.107)\cell\qc (0.0903)\cell\row
+\ql gender\cell\qc \cell\qc \cell\qc \cell\qc 0.0481\cell\qc -0.0338\cell\qc 0.0473\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0747)\cell\qc (0.102)\cell\qc (0.0896)\cell\row
+\ql edu\cell\qc \cell\qc \cell\qc \cell\qc 0.0758\cell\qc 0.116\cell\qc 0.0745\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.106)\cell\qc (0.150)\cell\qc (0.127)\cell\row
+\ql tuk\cell\qc \cell\qc \cell\qc \cell\qc -0.00323\cell\qc 0.00581\cell\qc -0.00302\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0186)\cell\qc (0.0287)\cell\qc (0.0199)\cell\row
+\ql tus\cell\qc \cell\qc \cell\qc \cell\qc 0.0221\cell\qc 0.0262\cell\qc 0.0223\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0206)\cell\qc (0.0266)\cell\qc (0.0213)\cell\row
+\ql fampart\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc -0.0323\cell\qc -0.00131\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc (0.0565)\cell\qc (0.0564)\cell\row
+\ql famgt\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc 0.0230\cell\qc -0.000350\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc (0.0485)\cell\qc (0.0497)\cell\row
+\ql isecon\cell\qc \cell\qc \cell\qc \cell\qc -0.180\cell\qc -0.244\cell\qc -0.180\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.115)\cell\qc (0.153)\cell\qc (0.121)\cell\row
+\ql isling\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc 0.112\cell\qc -0.00266\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc (0.144)\cell\qc (0.182)\cell\row
+\ql isstem\cell\qc \cell\qc \cell\qc \cell\qc 0.112\cell\qc 0.196*\cell\qc 0.112\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0723)\cell\qc (0.103)\cell\qc (0.0774)\cell\row
+\ql isss\cell\qc \cell\qc \cell\qc \cell\qc 0.274***\cell\qc 0.407***\cell\qc 0.275***\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0927)\cell\qc (0.110)\cell\qc (0.0916)\cell\row
+\ql ishum\cell\qc \cell\qc \cell\qc \cell\qc 0.298***\cell\qc 0.317**\cell\qc 0.299**\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.0967)\cell\qc (0.127)\cell\qc (0.113)\cell\row
+\ql dugcomp\cell\qc \cell\qc \cell\qc 0.00228***\cell\qc 0.00172***\cell\qc \cell\qc 0.00172***\cell\row
+\ql \cell\qc \cell\qc \cell\qc (0.000405)\cell\qc (0.000510)\cell\qc \cell\qc (0.000553)\cell\row
+\ql Constant\cell\qc 0.646***\cell\qc 0.859***\cell\qc 0.253\cell\qc 1.208\cell\qc 1.673\cell\qc 1.195\cell\row
+\ql \cell\qc (0.210)\cell\qc (0.219)\cell\qc (0.187)\cell\qc (1.376)\cell\qc (1.682)\cell\qc (1.418)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 40\cell\qc 40\cell\qc 40\cell\qc 40\cell\qc 40\cell\qc 40\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3168\clbrdrb\brdrs\cellx4464\clbrdrb\brdrs\cellx6048\clbrdrb\brdrs\cellx7632\clbrdrb\brdrs\cellx8928\clbrdrb\brdrs\cellx10512
+\ql R-squared\cell\qc 0.014\cell\qc 0.096\cell\qc 0.450\cell\qc 0.674\cell\qc 0.534\cell\qc 0.674\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
